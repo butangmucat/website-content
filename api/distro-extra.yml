@@ -1,8 +1,4 @@
 generalDistros:
-  # Be carefull, `previewDirPrefix` will be used to read
-  # the directories IN FILE SYSTEM.
-  # That means here should not use `/` at the beginning.
-  previewDirPrefix: static/assets/i/de-preview
   previewDirURLPrefix: /assets/i/de-preview
   thumbsPrefix: thumbs/
   thumbsSuffix: .jpg
