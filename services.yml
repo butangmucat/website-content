@@ -25,8 +25,8 @@
       Our community repository server, where AOSC OS installation medias,
       tarballs, packages, project documentation, etc. are stored.
 -
-  srvtype: IRC Logs
-  link: https://irclog.anthonos.org
+  srvtype: IRC Channel
+  link: https://webchat.freenode.net/?channels=%23aosc
   description:
     - >
-      Have a look at our chatter room!
+      Get in contact with people of the community and our developers!
