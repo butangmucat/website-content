@@ -30,3 +30,9 @@
   description:
     - >
       Get in touch with the community.
+-
+  srvtype: Mirror Status
+  link: https://aosc.io/mirror-status
+  description:
+    - >
+      Take a look at current mirror synchronization and availability information.
