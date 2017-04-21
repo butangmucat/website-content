@@ -10,7 +10,7 @@ mirrors:
       url: https://mirrors-wan.geekpie.org/aosc/
       region: China
     - name: LZUOSS 兰州大学
-      url: http://mirror.lzu.edu.cn/anthon/
+      url: https://mirror.lzu.edu.cn/anthon/
       region: China
     - name: Tsinghua University (TUNA)
       url: https://mirrors.tuna.tsinghua.edu.cn/anthon/
@@ -25,7 +25,7 @@ mirrors:
       url: http://ftp.tsukuba.wide.ad.jp/Linux/anthon/
       region: Japan
     - name: NLUUG
-      url: http://ftp.nluug.nl/os/Linux/distr/anthon/
+      url: https://ftp.nluug.nl/os/Linux/distr/anthon/
       region: Europe
     - name: Fastly CDN
       url: http://cdn.mirror.anthonos.org/
