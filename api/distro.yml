@@ -35,12 +35,6 @@ generalDistros:
         traditional interface suitable for keyboard and mouse. Cinnamon builds
         upon GNOME's technical frameworks and applications, preserving the
         same ease of use in mind, while providing more customizability.
-    - name: Budgie
-      description: |
-        Budgie is built on top of GNOME and focuses on simplicity and elegance.
-        Written from scratch with integration in mind, the Budgie desktop
-        tightly integrates with the GNOME stack, employing underlying
-        technologies to offer an alternative desktop experience.
     - name: LXDE
       description: |
         LXDE, or Lightweight X11 Desktop Environment in full is a lightweight
