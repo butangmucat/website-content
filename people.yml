@@ -30,11 +30,19 @@
   longdesc:
   rurl:
 -
-  fullname:
+  fullname: Sijie Bu
   username: butangmucat
-  description:
-  longdesc:
-  rurl:
+  description: Self-claimed art student. No availablity guarantee.
+  longdesc: >
+    Techenically computer science major, but passion in photography and media. Railfan. Disagrees with "M$ is evil. "
+    Would rather choose Microsoft over Apple. Uses Linux because can't master and can't afford Windows Server.
+    Zsh rocks. Lennartware rocks. DNG rocks.
+    Operates part of the AOSC IT infrastructure (Ruby rocks. Java rocks. Zsh rocks.Ruby rocks. Java rocks. Zsh rocks.on I cannot afford Red Hat subscription).
+    Currently maintains: ZFS stack, firewalld, slock, KeePass and its plugins, 
+                         Swift IM, Quassel IRC, Vivaldi, ownCloud Client, 
+                         Ghost Desktop, QOwnNotes, and Notepadqq.
+    Also known as: kawasaki_kagami, kawasaki_sakura, kawasaki_rumi, and kawasaki_iori on Freenode.
+  rurl: https://www.tombu.biz/
 -
   fullname: Rongwei Lin
   username: colin4124
